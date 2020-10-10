@@ -1,0 +1,11 @@
+*.db
+*.log
+*.pdb
+*.exe
+*.idb
+*.ilk
+*.user
+x64/
+/.vs/
+[Rr]elease/
+[Dd]ebug/
